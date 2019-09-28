@@ -1,7 +1,6 @@
 ---
 post: Sprint-Week-2
-title: Sprint-Week-2
-date: 2019-09-27
+
 ---
 
 Sprint Week 2 on Sept 23
