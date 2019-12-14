@@ -3,7 +3,7 @@ post: The Final Week
 
 ---
 
-December 9-10
+December 9-10, 2019
 
 We discussed the plan during the break before Spring Semester. We should research, study, and practice AWS for spring semester. We still learn more about AWS and Tableau. We will work on studying AWS for certification exam. Maybe we will have 2 different certifications: Cloud Practioner and Associate Level before spring semester ends. The certification is more impressive to the company that they would hire you.
 
