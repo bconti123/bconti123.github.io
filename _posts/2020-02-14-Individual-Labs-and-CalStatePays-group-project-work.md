@@ -10,7 +10,7 @@ In EC2 Windows Lab
 
 For Windows Server 2012 this below:
 
-<powershell>Install-WindowsFeature Web-Server -IncludeManagementTools -IncludeAllSubFeature</powershell>
+"<powershell>"Install-WindowsFeature Web-Server -IncludeManagementTools -IncludeAllSubFeature</powershell>
 
 For Windows Server 2019 this below:
 
