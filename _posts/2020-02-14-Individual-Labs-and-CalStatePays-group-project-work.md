@@ -10,10 +10,10 @@ In EC2 Windows Lab
 
 For Windows Server 2012 this below:
 
-<powershell>Install-WindowsFeature Web-Server -IncludeManagementTools -IncludeAllSubFeature</powershell>
+&lt;powershell&gt;Install-WindowsFeature Web-Server -IncludeManagementTools -IncludeAllSubFeature&lt;/powershell&gt;
 
 For Windows Server 2019 this below:
 
-&lt;powershell&gt;Install-WindowsFeature –name Web-Server -IncludeManagementTools -IncludeAllSubFeature</powershell>
+&lt;powershell&gt;Install-WindowsFeature –name Web-Server -IncludeManagementTools -IncludeAllSubFeature&lt;/powershell&gt;
 
 CalStatePays project, we divided work role. My partner and I will responsible for the calculating the prices for On-Demand Instances, Reserved Instances, and Spot Instance to determine which is cheaper than the current on-premise windows server running in CSUN, which is CalStatePays. I was trying to find good pricing calculator on the AWS server and compare with different instance type. Creating spreadsheet is a lot of work! I will try do my best. We will find better one is cheaper then replace the current on-premise windows server.
