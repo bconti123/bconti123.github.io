@@ -3,7 +3,7 @@ post: AWS-Spot-Fleet-Workshop
 
 ---
 
-COVID-19 affected my work in senior design project. I am too behind in researching AWS and learn new things. I practiced Amazon EC2 Spot Fleet Web App workshop and learned about it. Amazon EC2 Spot Instance is biggest discount and save up to 90% &percnt; on On-Demand prices. I set up Elastic Load Balancing Application and enable automatic scaling to handle peak demand as week as handle Spot Instance interruptions. Workshop helps you deploy the following this below.
+COVID-19 affected my work in senior design project. I am too behind in researching AWS and learn new things. I practiced Amazon EC2 Spot Fleet Web App workshop and learned about it. Amazon EC2 Spot Instance is biggest discount and save up to 90% on On-Demand prices. I set up Elastic Load Balancing Application and enable automatic scaling to handle peak demand as week as handle Spot Instance interruptions. Workshop helps you deploy the following this below.
 
 An Amazon Virtual Private Cloud (Amazon VPC) with subnets in two Availability Zones
 
