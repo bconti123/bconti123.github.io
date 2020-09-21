@@ -83,13 +83,13 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               :
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : # Open Graph/Twitter default site image
+#twitter:
+#  username               :
+#facebook:
+#  username               :
+#  app_id                 :
+#  publisher              :
+#og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -111,7 +111,7 @@ author:
   avatar           : "/assets/images/IMG_2434.jpg"
   bio              : "I am deaf. Recent gradaution majoring IT in CSUN. My skill never stop growing. I never stop doing new technology everyday."
   # location         : "Somewhere"
-  email            : "bconti00@gmail.com"
+  #email            : "bconti00@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
