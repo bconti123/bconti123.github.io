@@ -299,10 +299,3 @@ defaults:
       share: false
       related: true
 
-  # _about
-  - scope:
-      path: ""
-      type: about/about.md
-    values:
-      layout: single
-      author_profile: true

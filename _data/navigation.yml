@@ -3,10 +3,8 @@ main:
 
   - title: "Resume (Coming Soon)"  
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Posts"
-    url: /_posts/
-  - title: "About"
-    url: /_about/
+
+
 
   
   
