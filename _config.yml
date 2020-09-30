@@ -299,15 +299,3 @@ defaults:
       share: false
       related: true
 
-defaults:
-  # _about
-  - scope:
-      path: ""
-      type: about
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: false
-      related: true
