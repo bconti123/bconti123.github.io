@@ -299,3 +299,10 @@ defaults:
       share: false
       related: true
 
+  # _about
+  - scope:
+      path: "about"
+      type: 
+    values:
+      layout: single
+      author_profile: true
