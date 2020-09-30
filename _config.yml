@@ -301,8 +301,8 @@ defaults:
 
   # _about
   - scope:
-      path: "about"
-      type: 
+      path: ""
+      type: about/about.md
     values:
       layout: single
       author_profile: true
