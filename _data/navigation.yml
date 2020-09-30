@@ -2,7 +2,11 @@
 main:
 
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  sidebar:
   - title: "About"
+    nav: "stample"
+    url: /
+
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
