@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bryant Conti Personal Website"
+title                    : ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Bryant Conti"
-description              : "Recent gradaution majoring IT in CSUN. My skill never stop growing. I never stop doing new technology everyday."
+description              : "Recent gradaution majoring IT in CSUN. My skill never stop growing. I never stop learning new technology everyday. Currently studying AWS SysOps and Developer. Working on IT infrastructure projects and ideal hands-on"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
