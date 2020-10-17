@@ -2,7 +2,7 @@
 main:
 
   - title: "Download Resume PDF"  
-    url: "/Bryant-Conti-Resume.pdf/"
+    url: "../Bryant-Conti-Resume.pdf/"
 
 
 
