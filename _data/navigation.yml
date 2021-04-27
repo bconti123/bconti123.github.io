@@ -1,8 +1,10 @@
 # main links
 main:
 
-  - title: "Download Resume PDF"  
-    url: Bryant-Conti-Resume.pdf
+  - title: "Home"
+    url: "index.html"
+  - title: "Go to Bryant's Resume Website"
+    url: https://bryantconti.com
 
 
 
@@ -10,8 +12,8 @@ main:
   
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  #  - title: "Sample Posts"
+  #    url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

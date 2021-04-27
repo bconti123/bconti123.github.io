@@ -20,7 +20,7 @@ title                    : ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Bryant Conti"
-description              : "Recent gradaution majoring IT in CSUN. My skill never stop growing. I never stop learning new technology everyday. Currently studying AWS SysOps and Developer. Working on IT infrastructure projects and ideal hands-on"
+description              : # "Recent gradaution majoring IT in CSUN. My skill never stop growing. I never stop learning new technology everyday. Currently studying AWS SysOps and Developer. Working on IT infrastructure projects and ideal hands-on"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,8 +108,8 @@ analytics:
 # Site Author
 author:
   name             : "Bryant Conti"
-  avatar           : "/assets/images/IMG_2434.jpg"
-  bio              : "I am deaf. Recent gradaution majoring IT in CSUN. My skill never stop growing. I never stop doing new technology everyday."
+  avatar           : # "/assets/images/IMG_2434.jpg"
+  bio              :  ""
   # location         : "Somewhere"
   #email            : "bconti00@gmail.com"
   links:
