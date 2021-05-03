@@ -108,17 +108,18 @@ analytics:
 # Site Author
 author:
   name             : "Bryant Conti"
-  avatar           : # "/assets/images/IMG_2434.jpg"
-  bio              :  ""
+  avatar           : ##"/assets/images/aboutpic.jpg"
+  bio              :  "I write blog posts about what 
+  I learn something related to technology and share my experience."
   # location         : "Somewhere"
   #email            : "bconti00@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:bconti00@gmail.com
-    - #label: "Website"
-      #icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "mailto:bconti00@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://bryantconti.com"
     - #label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
