@@ -2,7 +2,7 @@
 post: Cloud Resume Challenge
 ---
 
-I am excited to explain the topic! I enjoyed my work about the challenge. It is very worth trying and great learning. I love sharing my fun work experience from <a href="https://cloudresumechallenge.dev/">Forrest Brazeal Cloud Resume Challenge</a>. It took me one month around.
+I am excited to explain the topic! I enjoyed my work about the challenge. It is very worth trying and great learning. I love to share my experience from <a href="https://cloudresumechallenge.dev/">Forrest Brazeal Cloud Resume Challenge</a>. It took me one month around.
 
 <h3>Certification</h3>
 I passed AWS Certified Cloud Practitioner then AWS Certified Solutions Architect Associate in August 2020. My senior class taught me about AWS that is based on AWS Certified Cloud Practitioner and I finished the AWS project with the team in senior design class for fall semester 2019 and spring semester 2020. After I graduated on May 2020 with a Bachelor of Science degree in Computer Information Technology, I continue to study cloud computing because it became my passion, then I restudied AWS Certified Cloud Practioner from any online sources like Udemy, Digital Cloud Training, and others. I didn't know that Cloud Resume Challenge helps me to earn good hands-on experience.
