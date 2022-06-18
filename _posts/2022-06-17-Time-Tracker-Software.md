@@ -9,4 +9,4 @@ I found WakaTime by looking up inspirational blogs that can change life to suppo
 
 Learn about routines and mistakes that will improve your life and break bad habits. Practice makes perfect and accepts your mistakes. It is part of the learning routine. I will work hard and overcome my mistakes and bad habits. I hope my time management skill will help me. I will write a blog post again every Friday. 
 
-<img src="./assets/wakatime.png" alt="wakatime">
+![](/assets/images/wakatime.png)
