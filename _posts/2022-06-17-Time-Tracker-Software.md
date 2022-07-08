@@ -3,7 +3,7 @@ post: Time Tracker Software
 ---
 
 <h3>Why should I keep tracking my coding time daily using time tracker software?</h3>
-I lack habits, time management, and coding skills as a Web Developer/Software Developer. A time tracker software called <a href="https://wakatime.com/">WakaTime</a> is free to use the software. It helps to improve programmers' routines, ensuring they don't skip coding days and continue work in a minimum hour. A dashboard displays that to see how much spent time on coding today and yesterday. Use makeup and programming languages often while WakaTime monitors you to see how many minutes and hours you work on various projects. 
+I lack habits, time management, and coding skills as a Web Developer/Software Developer. A time tracker software called <a href="https://wakatime.com/" target="_blank">WakaTime</a> is free to use the software. It helps to improve programmers' routines, ensuring they don't skip coding days and continue work in a minimum hour. A dashboard displays that to see how much spent time on coding today and yesterday. Use makeup and programming languages often while WakaTime monitors you to see how many minutes and hours you work on various projects. 
 
 WakaTime monitored me how much I did work on coding project. See this dashboard below.
 ![](/assets/images/wakatime.png)
